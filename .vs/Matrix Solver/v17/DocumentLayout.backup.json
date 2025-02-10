@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\sandro\\Desktop\\Visual Studio Community\\Matrix Solver\\",
+  "WorkspaceRootPath": "C:\\Users\\sandro\\Desktop\\Visual Studio Community\\Matrix Solver\\Matrix_gaussian_solver\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{058BED55-0DF3-4508-A444-C97135A39570}|Matrix Solver.pyproj|C:\\Users\\sandro\\Desktop\\Visual Studio Community\\Matrix Solver\\Matrix_Solver.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{058BED55-0DF3-4508-A444-C97135A39570}|Matrix Solver.pyproj|C:\\Users\\sandro\\Desktop\\Visual Studio Community\\Matrix Solver\\Matrix_gaussian_solver\\Matrix_Solver.py||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{058BED55-0DF3-4508-A444-C97135A39570}|Matrix Solver.pyproj|solutionrelative:Matrix_Solver.py||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Matrix_Solver.py",
-              "DocumentMoniker": "C:\\Users\\sandro\\Desktop\\Visual Studio Community\\Matrix Solver\\Matrix_Solver.py",
+              "DocumentMoniker": "C:\\Users\\sandro\\Desktop\\Visual Studio Community\\Matrix Solver\\Matrix_gaussian_solver\\Matrix_Solver.py",
               "RelativeDocumentMoniker": "Matrix_Solver.py",
-              "ToolTip": "C:\\Users\\sandro\\Desktop\\Visual Studio Community\\Matrix Solver\\Matrix_Solver.py",
-              "RelativeToolTip": "Matrix_Solver.py",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\sandro\\Desktop\\Visual Studio Community\\Matrix Solver\\Matrix_gaussian_solver\\Matrix_Solver.py*",
+              "RelativeToolTip": "Matrix_Solver.py*",
+              "ViewState": "AgIAABoAAAAAAAAAAAAwwC0AAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
               "WhenOpened": "2025-02-10T10:40:25.376Z",
               "EditorCaption": ""
